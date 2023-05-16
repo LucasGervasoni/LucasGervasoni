@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil ao Meu Perfil!
+## Bem-vindo(a) ao Meu Perfil!
 
  <div>
    <a href="https://github.com/LucasGervasoni">
