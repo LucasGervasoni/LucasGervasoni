@@ -1,9 +1,10 @@
-## Bem-vindo(a) ao Meu Perfil!
+<h1 align="center">Welcome to my profile</h1>
+<h3 align="center">Atualmente estudante e futuro programador</h3>
 
  <div>
    <a href="https://github.com/LucasGervasoni">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGervasoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGervasoni&layout=compact&langs_count=6&theme=tokyonight"/>
+   <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGervasoni&show_icons=true&locale=en&layout=compact" alt="LucasGervasoni" /></p>
+   <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasGervasoni&show_icons=true&locale=en" alt="LucasGervasoni" /></p>
 
 </div>
 <div style="display: inline_block"><br>
