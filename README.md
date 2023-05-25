@@ -1,10 +1,9 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">Atualmente estudante e futuro programador</h3>
 
  <div>
    <a href="https://github.com/LucasGervasoni">
-   <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGervasoni&show_icons=true&locale=en&layout=compact" alt="LucasGervasoni" /></p>
    <p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasGervasoni&show_icons=true&locale=en" alt="LucasGervasoni" /></p>
+   <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGervasoni&show_icons=true&locale=en&layout=compact" alt="LucasGervasoni" /></p>
 
 </div>
 <div style="display: inline_block"><br>
