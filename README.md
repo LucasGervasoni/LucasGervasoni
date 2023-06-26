@@ -31,7 +31,6 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/lucasgervasoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://app.rocketseat.com.br/me/lucas-dos-santos-gervasoni-medeiros-07597" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-purple?style=for-the-badge&logo=fire&logoColor=white" target="_blank"></a> 
 </div>
 
 
