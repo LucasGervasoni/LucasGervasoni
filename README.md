@@ -81,18 +81,18 @@
   <tr>
   </tr>
     <td align="center">
-      <a href="https://pop.system76.com/">
+      <a href="#">
         <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
         <sub>
           <b>
-            <pre>Linux &<br>Windows</pre>
+            <pre>Linux</pre>
           </b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
 <h1 align="center"> CONTATE - ME </h1>
