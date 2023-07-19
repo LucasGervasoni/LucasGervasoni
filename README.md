@@ -8,6 +8,28 @@
 </div>
 <br>
 <hr>
+<br/><br/>
+
+<img min-width="300px" max-width="300px" width="300px" align="right" src="./images/programming-is-scary-sometimes.webp" alt="Garota trabalhando com programação"/> 
+
+<p align="left"> 
+  Meu nome é Lucas e sou estudante de Ciências da Computação na Estácio de Sá. Tenho uma paixão pela tecnologia e programação desde cedo. Tenho focado no desenvolvimento web, tanto no Frontend, mas também no Backend. 
+  Estou comprometido em me tornar um desenvolvedor qualificado e contribuir com as minhas habilidades.
+</p>
+
+<p align="left">
+    💌 Contate-me por meio dessas redes: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:devlucas139@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/lucasgervasoni/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>
+<br/><br/><br/><br/>
+<hr/>
 
 
 <h1 align="center">  MINHA STACK </h1>
@@ -92,27 +114,7 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr/>
-
-<h1 align="center"> CONTATE - ME </h1>
-<img align="right" width="185px" src="./images/programming-is-scary-sometimes.webp" alt="Garota trabalhando com programação"/>
-<br>
-<p align="left">
-  <a href="#" target="_blank">
-    <img src="./components/icons/pt/cv.png" alt="Etiqueta de Currículo" height="30px" />
-    &nbsp;
-  </a>
-  <a href="mailto:devlucas139@gmail.com" target="_blank">
-    <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/lucasgervasoni/" target="_blank">
-    <img src="./components/icons/linkedin.png" alt="Etiqueta do Linkedin" height="30px" />
-    &nbsp;
-  </a>
-</p>
-<br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="center" src="./images/wavefooter.svg" width="100%" alt="Ondas animadas do footer" />
 
