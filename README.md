@@ -1,8 +1,12 @@
 
-<h3>• Sobre mim</h3>
-
-- 🤔 Explorando tecnologias web e mobile
-- 🎓 Estudando Ciência da Computação na Faculdade Estacio de Sá - RJ
+<div>
+  <div>
+    <h3>• Sobre mim</h3>
+    
+    - 🤔 Explorando tecnologias web/mobile e surfando pelos dados
+    - 🎓 Estudando Ciência da Computação na Faculdade Estacio de Sá - RJ
+  </div>
+</div>
 
 <h3>• My languages, libraries, frameworks or technologies.</h3>
 
@@ -15,6 +19,8 @@
 ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGervasoni&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ovi" />
+</div>
 
 
