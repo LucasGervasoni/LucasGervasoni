@@ -2,7 +2,7 @@
   <div align="center">
     <h3>• Sobre mim</h3>
     
-    - 🤔 Explorando tecnologias full stack e surfando pelos dados
+    - 🤔 Explorando tecnologias full stack 
     - 🎓 Estudando Ciência da Computação na Faculdade Estacio de Sá - RJ
     
   </div>
