@@ -10,7 +10,7 @@
 <div align="center">
   <h3>• My languages, libraries, frameworks or technologies.</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,py,postgres,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,py,postgres,git,figma)](https://skillicons.dev)
 </div>
 
 <div align="center">
