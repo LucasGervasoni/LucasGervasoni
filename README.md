@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Gervasoni</h1>
 <h3 align="center">A passionate full stack developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Java, React, Django**
+- 🌱 I’m currently learning **Python, React, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucasGervasoni](https://github.com/LucasGervasoni)
 
@@ -29,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
