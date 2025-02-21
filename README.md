@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Gervasoni</h1>
-<h3 align="center">A passionate full stack developer from Brasil</h3>
+<h3 align="center">A passionate Software Developer from Brasil</h3>
 
 <p>
- Lucas is an early-career Full Stack Developer with a passion for learning and creating innovative solutions. His goal is to transform technical challenges into opportunities for growth and impact.
+ Lucas is an early-career Software Developer with a passion for learning and creating innovative solutions. His goal is to transform technical challenges into opportunities for growth and impact.
  
 He has experience with technologies such as Python, React and Node.js and is always exploring new tools and frameworks, such as Django and Angular, to expand his repertoire. It also develops skills in managing SQL and NoSQL databases, including PostgreSQL and MySQL.
 
