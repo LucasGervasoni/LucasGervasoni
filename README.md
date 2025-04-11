@@ -20,16 +20,19 @@ He currently invests his time in personal projects that challenge him to apply w
     <img align="center" alt="sass" src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
     <img align="center" alt="node.js" src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="nestjs" src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img align="center" alt="Next.js" src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img align="center" alt="React.js" src="https://img.shields.io/badge/React%20js-black?style=for-the-badge&logo=react&logoColor=white" />
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />  
     <img align="center" alt="springboot" src="https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot&logoColor=white" />  
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />  
     <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />  
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white" />  
+    <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-web-services&logoColor=white" />  
+    <img align="center" alt="power bi" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-black?style=for-the-badge&logo=power-bi&logoColor=white" />  
+    <img align="center" alt="excel" src="https://img.shields.io/badge/excel-black?style=for-the-badge&logo=excel&logoColor=white" />  
+    <img align="center" alt="git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" />  
+    <img align="center" alt="flask" src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white" />  
+    <img align="center" alt="django" src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white" />  
  </div>
 <br>
 <br>
