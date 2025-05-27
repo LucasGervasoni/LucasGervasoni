@@ -3,8 +3,6 @@
 
 <p>
  Lucas is an early-career Software Developer with a passion for learning and creating innovative solutions. His goal is to transform technical challenges into opportunities for growth and impact.
- 
-He has experience with technologies such as Python, React and Node.js and is always exploring new tools and frameworks, such as Java and Spring Boot, to expand his repertoire. It also develops skills in managing SQL and NoSQL databases, including PostgreSQL and MySQL.
 
 He currently invests his time in personal projects that challenge him to apply what he learns in practice to solve real problems. These projects provided him with a solid foundation of knowledge and the opportunity to improve his technical and collaborative skills.
 </p>
