@@ -1,10 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Gervasoni</h1>
-<h3 align="center">A passionate Software Developer from Brasil</h3>
 
 <p>
- Lucas is an early-career Software Developer with a passion for learning and creating innovative solutions. His goal is to transform technical challenges into opportunities for growth and impact.
-
-He currently invests his time in personal projects that challenge him to apply what he learns in practice to solve real problems. These projects provided him with a solid foundation of knowledge and the opportunity to improve his technical and collaborative skills.
+ With experience in Logistics, I am now steering my career toward the fields of Data, Automation, and AI, in order to analyze scenarios and support the pursuit of greater operational efficiency. I am highly interested in learning and applying new technologies to contribute to projects and grow professionally.
 </p>
 <br/>
 <p align="left">
@@ -17,11 +14,6 @@ He currently invests his time in personal projects that challenge him to apply w
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS&logoColor=white" />
     <img align="center" alt="sass" src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img align="center" alt="node.js" src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="Next.js" src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img align="center" alt="React.js" src="https://img.shields.io/badge/React%20js-black?style=for-the-badge&logo=react&logoColor=white" />
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />  
-    <img align="center" alt="springboot" src="https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot&logoColor=white" />  
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />  
     <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />  
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white" />  
